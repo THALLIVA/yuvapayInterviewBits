@@ -4,7 +4,7 @@ void main() {
   List l3 = [90, 39, 6, 7, 21, 99, 26];
   
   // Output  (Common elements in l1,l2, l3)
-  // [7, 99, 21]   
+  // [99, 21]   
   // 5 pts  - 10 mins
   
   Map<int, String> a = {1: "a", 2: "b", 3: "c", 4: "d", 5: "e", 6: "f"}; 
