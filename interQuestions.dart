@@ -56,3 +56,20 @@ void main() {
   
 }
 
+void main() { 
+  
+ // Question 1
+ Map<int, String> a = {1: "a", 2: "b", 3: "c", 4: "d", 5: "e", 6: "f"}; 
+  
+  // Output (Split the Map such that the Resultant is the List of elements having even MapKeys values)
+  // [{2:'b'},{4:'d'},{6:'f'}]
+ 
+  // Question 2
+ List l1 = [4, 8, 33, 55, 7, 99, 21];
+  List l2 = [18, 4, 17, 65, 99, 20, 21];
+  List l3 = [90, 39, 6, 7, 21, 99, 26];
+ 
+ // Remove the common variables from l1,l2,l3
+  
+}
+
